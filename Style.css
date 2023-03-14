@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;300;400;600;700;900&display=swap');
 
+/*Segundo commit*/
+
 
 /* Reset */
 * {
@@ -12,7 +14,7 @@
 html,
 body {
     font-family: 'Titillium Web', sans-serif;
-    background: #25282f;
+    background: #10348a;
 }
 
 h1 {
